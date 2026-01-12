@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Refrigerator Chef",
+  "description": "An AI-powered recipe generator that suggests meals based on ingredients in your fridge and the time of day.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
